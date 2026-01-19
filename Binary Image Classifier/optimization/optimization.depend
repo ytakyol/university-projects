@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1732985062 source:c:\users\joseph2o\desktop\desktop\projeler2\optimizasyon\optimization\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<time.h>
+	<math.h>
+
+1732392580 source:c:\users\joseph2o\desktop\desktop\projeler2\optimizasyon\optimization\file2.c
+	<stdio.h>
+	<stdlib.h>
+
+1732548031 c:\users\joseph2o\desktop\desktop\projeler2\optimizasyon\optimization\pgm_to_array.h
+	<stdio.h>
+	<stdlib.h>
+
