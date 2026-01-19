@@ -1,2 +1,2 @@
 # UniversityProjects
-Projects I made with/for my University Courses.
+Projects I made for my University Courses.
