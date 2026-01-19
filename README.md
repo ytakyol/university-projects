@@ -1,2 +1,2 @@
 # UniversityProjects
-Projects I made throughout my university journey.
+Projects I made with/for my University Courses.
