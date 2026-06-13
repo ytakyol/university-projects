@@ -19,3 +19,6 @@ Hospital Booking System utilizing Java GUI libraries and OOP.
 
 ## Library System 
 Library Management System utilizng C, Dynamic Memory Allocation, I/O
+
+![GitHub repo size](https://img.shields.io/github/repo-size/ytakyol/university-projects)
+
